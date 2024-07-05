@@ -13,7 +13,7 @@ RealEstate CMS is a comprehensive real estate content management system built wi
 
 ## Live Demo
 
-Check out the live demo: [RealEstate CMS](https://emarkrealty.com)
+Check out the live demo: [EmarkRealty](https://emarkrealty.com)
 
 ## Technologies Used
 
