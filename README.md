@@ -1,4 +1,4 @@
-# RealEstate CMS
+# EmarkRealty
 
 RealEstate CMS is a comprehensive real estate content management system built with Next.js for the frontend and Node.js with MongoDB for the backend. The entire application is written in TypeScript and styled with Tailwind CSS. It offers a robust CMS for admins to manage property listings, providing an excellent user experience along with powerful analytics.
 
