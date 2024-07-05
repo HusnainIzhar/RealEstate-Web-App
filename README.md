@@ -34,5 +34,9 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/HusnainIzhar/RealEstate-Web-App.git
 2. Install NPM packages
    ```sh
-    Copy code
     npm install
+3. Usage
+1. Open your browser and navigate to http://localhost:3000.
+2. Sign up or log in using the provided authentication methods.
+3. As an admin, manage property listings through the CMS.
+4. View analytics and insights.
