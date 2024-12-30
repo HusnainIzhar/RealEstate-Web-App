@@ -13,7 +13,7 @@ RealEstate CMS is a comprehensive real estate content management system built wi
 
 ## Live Demo
 
-Check out the live demo: [EmarkRealty](https://emark-realty-client-git-main-husnainizhars-projects.vercel.app/)
+Check out the live demo: [EmarkRealty](https://emark-realty-client.vercel.app/)
 
 ## Technologies Used
 
